@@ -5,3 +5,5 @@
 It is based around the ATtiny85 and can be used built with [PlatformIO](http://www.platformio.org)
 
 See all details on the [project page](https://hackaday.io/project/163045-tiny-cuicui)
+
+[![CuiCui](cuicui.gif)](https://youtu.be/ED0y6tMK5xo)
